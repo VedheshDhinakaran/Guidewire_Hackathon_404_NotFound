@@ -1,2 +1,2 @@
 # Guidewire_Hackathon
-To detect kubenetes failures using Machine Learning Models
+To find AI-based solution for Kubernetes Cluster Management
